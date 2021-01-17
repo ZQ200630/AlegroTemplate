@@ -1,2 +1,1 @@
 # AlegroTemplate
-# AlegroTemplate
